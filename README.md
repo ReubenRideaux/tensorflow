@@ -19,3 +19,5 @@ conda env export > environment.yml
 
 Note that the only libraries available to you will be the ones specified in
 the `environment.yml`, so be sure to include everything that you need!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reubenrideaux/tensorflow/master)
